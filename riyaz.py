@@ -528,5 +528,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
             # Add a small delay to avoid rapid looping in case of persistent errors
-        time.sleep(1)p(1) avoid rapid looping in case of persistent errors
         time.sleep(1)
